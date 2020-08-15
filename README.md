@@ -6,11 +6,11 @@ Aquí van cosas de información
 
 ### Título 3 prueba A 
 ### Negritas prueba A (Título 3) 
-** Más información en negritas **
+**Más información en negritas**
 
 #### Título 4 prueba A 
 #### Cursivas prueba A (Título 4) 
-* Texto en cursiva intento uno *
+*Texto en cursiva intento uno*
 
 ###  Negritas prueba B (Título 3)
 __Más información en negritas__
