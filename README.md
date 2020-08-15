@@ -22,9 +22,9 @@ _Texto en cursiva intento uno_
 * Elemento 1
 * Elemento 2
 * Elemento 3
-4. Elemento 4
-5. Elemento 5
-6. Elemento 6
+1. Elemento 4
+2. Elemento 5
+3. Elemento 6
 
 ######  ENLACES (Título 6)
 [GitHub]
@@ -47,18 +47,21 @@ function fancyAlert (arg) {
 if (arg) {$ .facebox ({div: '# foo'})
 }
 ```
-
 - Útil cuando queremos resaltar el nombre de algún archivo o que se muestre correctamente algún pedazo de texto que queramos poner.
+
 
 ##  LISTA DE TAREAS
 - [x] Escribir la primer tarea ya realizada (se rellena el cuadrito)
 - [x] Escribir la tarea 2 (la x rellena el cuadrito, lo palomea)
 - [ ] Escribir la tarea 3 sin realizar (no hay x, no se palomea; espacio en blanco com barra espaciadora entre corchetes)
 
+
 ##  TABLAS
 Primera columna | Segunda columna
 ----------------| ---------------
 Dato 1A         | Dato 1B
 Dato 2A         | Dato 2B
+
+
 
 ¡OJO! Se puede exportar markdown a pdf o html
