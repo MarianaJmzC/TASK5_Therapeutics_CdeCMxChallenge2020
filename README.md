@@ -59,8 +59,8 @@ if (arg) {$ .facebox ({div: '# foo'})
 ##  TABLAS
 **Primera columna** | **Segunda columna**|
 --------------------| -------------------|
-Dato 1A*            | Dato 1B
-Dato 2A*            | Dato 2B
+Dato 1A             | Dato 1B
+Dato 2A             | Dato 2B
 
 
 
