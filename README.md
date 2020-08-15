@@ -1,7 +1,6 @@
 #  Borrador-web-proyCdeCMx
 Este es mi primer intento personal de una página web para CdeMx Challenge
 
-## Título 2 prueba A 
 ## Texto simple prueba A (Título 2) 
 Aquí van cosas de información
 
@@ -57,8 +56,8 @@ if (arg) {$ .facebox ({div: '# foo'})
 
 ##  TABLAS
 Primera columna | Segunda columna
----------------- | ---------------
-Dato 1A | Dato 1B
-Dato 2A | Dato 2B
+----------------| ---------------
+Dato 1A         | Dato 1B
+Dato 2A         | Dato 2B
 
 ¡OJO! Se puede exportar markdown a pdf o html
