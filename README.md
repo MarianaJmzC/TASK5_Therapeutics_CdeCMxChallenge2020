@@ -1,32 +1,48 @@
 # **VACUNAS Y CIENCIA: UNA CARRERA ANTE EL SARS-COV-2**
 
-<!doctype html>
-<html lang="es">
+<!DOCTYPE html>
+<html>
 <head>
-	<meta charset="UTF-8">
-	<title>CSS Menu responsivo</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<title>Menú desplegable con html5 y css3</title>
 	<link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-	<label for="show-menu" class="show-menu">Desplegar Menu</label>
-	<input type="checkbox" id="show-menu" role="button">
-		<ul id="menu">
-		<li><a href="#">Inicio</a></li>
-		<li>
-			<ul class="hidden">
-				<li><a href="#">1. Resumen</a></li>
-				<li><a href="#">2. Introducción</a></li>
-				<li><a href="#">3. Antecedentes</li>
-				<li><a href="#">4. Análisis</li>
-				<li><a href="#">5. Conclusiones</li>
-			</ul>
-		</li>
-		<li><a href="#">6. Recomendaciones</a></li>
-		<li><a href="#">7. Referencias</a></li>
-		<li><a href="#">8. Anexos</a></li>
+<nav id='menu'>
+	<ul>
+	   	<li><a href='#'>Resumen</a></li>
+	   	<li><a href='#'>Introducción</a>
+		<li><a href='#'>Fases de desarrollo de una vacuna</a>
+	      	<ul>
+	         	<li><a href='#'>Fase 1</a>
+			<li><a href='#'>Fase 2</a>
+			<li><a href='#'>Fase 3</a>
+			<li><a href='#'>Fase 4</a>
+	            	<ul>
+	               		<li><a href='#'>Sub Menu 1.1</a></li>
+	               		<li><a href='#'>Sub Menu 1.2</a></li>
+	            	</ul>
+	         	</li>
+	         	<li><a href='#'>Sub Menu 2</a>
+		            <ul>
+		               	<li><a href='#'><span>Sub Menu 2.1</a></li>
+		              	 <li><a href='#'>Sub Menu 2.2</a></li>
+		            </ul>
+	         	</li>
+	      	</ul>
+		<ul>
+	   	</li>
+	   	<li><a href='#'>Análisis</a></li>
+	   	<li><a href='#'>Conclusiones</a></li>
+		<li><a href='#'>Recomendaciones</a></li>
+		<ul>
+			<li><a href='#'>Apoyo a la investigación científica</a>
+			<li><a href='#'>¿Qué hacer ante el COVID-19?</a>
+	            	<ul>
+		<li><a href='#'>Referencias</a></li>
+		<li><a href='#'>Anexos</a></li>
 	</ul>
+</nav>
 </body>
 </html>
 
@@ -41,10 +57,10 @@ La situación actual del mundo ante la pandemia del virus **SARS-COV-2** tambié
 ## INTRODUCCIÓN
 <div style="text-align: justify"> El desarrollo de vacunas y fármacos son unas de las principales líneas de investigación relevantes para el área terapéutica, pero la complejidad del desarrollo radica en el fundamento científico, los procesos que permiten su liberación en el mercado y aspectos legales que vigilan la seguridad y calidad de dichos productos. Los primeros retos a los que se enfrentan los investigadores radican en la naturaleza del virus y sus interacciones con el entorno y otros organismos vivos (hospedador), ya que deben estudiarse y conocerse las estrategias que implementan dichos patógenos para evadir la respuesta inmune de nuestro organismo (Bécares, 2020). </div>
 
-## ANTECEDENTES
+## FASES DE DESARROLLO DE UNA VACUNA
 Más párrafos
 
-## ANÁLISIS (DISCUSIÓN)
+## ANÁLISIS: EL PANORAMA ACTUAL
 Comparar artículos
 
 ## CONCLUSIONES
