@@ -1,4 +1,4 @@
-# **TASK 5 Terapéuticos - CdeCMx Challenge 2020**
+# **VACUNAS: LA CIENCIA Y LA CARRERA ANTE EL SARS-COV-2**
 
 <!doctype html>
 <html lang="es">
@@ -33,7 +33,7 @@
 ## RESUMEN
 <iframe src="COVID 19 health mil.png" title="Estructura de SARS-COV-2" width="100%" height="600px" style="border:cyan"></iframe>
 
-![Estructura de SARS-COV-2] (https://github.com/MarianaJmzC/TerapeuticsChallenge2.0/blob/master/COVID%2019%20health%20mil.png)
+![Estructura de SARS-COV-2] (https://github.com/MarianaJmzC/TASK5_Therapeutics_CdeCMxChallenge2020/blob/master/COVID%2019%20health%20mil.png)
 
 
 <div style="text-align: justify"> La situación actual del mundo ante la pandemia del virus **SARS-COV-2** también denominado como *COVID-19*, ha demandado que la humanidad se enfrente a nuevos retos en diversos aspectos (sociales, económicos, culturales,...). El desarrollo de alternativas terapéuticas para confrontar el virus se ha implementado en colaboración con diferentes entidades científicas; sin embargo, los esfuerzos de la comunidad científica se han enfrentado a diversos retos que limitan el control de la pandemia a fármacos pre-existentes (cuyo objetico original era tratar otro tipo de patologías) y medidas de prevención. </div>
