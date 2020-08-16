@@ -15,18 +15,17 @@
 		<ul id="menu">
 		<li><a href="#">Inicio</a></li>
 		<li>
-			<a href="#">Resumen &nbsp;￬</a>
 			<ul class="hidden">
-				<li><a href="#">Resumen</a></li>
-				<li><a href="#">Resumen</a></li>
-				<li><a href="#">Antecedentes</li>
-				<li><a href="#">Análsis</li>
-				<li><a href="#">Conclusiones</li>
+				<li><a href="#">1. Resumen</a></li>
+				<li><a href="#">2. Introducción</a></li>
+				<li><a href="#">3. Antecedentes</li>
+				<li><a href="#">4. Análisis</li>
+				<li><a href="#">5. Conclusiones</li>
 			</ul>
 		</li>
-		<li><a href="#">Recomendaciones</a></li>
-		<li><a href="#">Referencias</a></li>
-		<li><a href="#">Anexox</a></li>
+		<li><a href="#">6. Recomendaciones</a></li>
+		<li><a href="#">7. Referencias</a></li>
+		<li><a href="#">8. Anexos</a></li>
 	</ul>
 </body>
 </html>
