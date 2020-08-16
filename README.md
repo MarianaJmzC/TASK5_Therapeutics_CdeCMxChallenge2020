@@ -16,22 +16,23 @@
 		<ul id="menu">
 		<li><a href="#">Inicio</a></li>
 		<li>
-			<a href="#">Quien somos &nbsp;￬</a>
+			<a href="#">Resumen &nbsp;￬</a>
 			<ul class="hidden">
-				<li><a href="#">Quién somos</a></li>
-				<li><a href="#">Que hacemos</a></li>
+				<li><a href="#">Resumen</a></li>
+				<li><a href="#">Resumen</a></li>
 			</ul>
 		</li>
 		<li>
-			<a href="#">Productos &nbsp;￬</a>
+			<a href="#">Introducción &nbsp;￬</a>
 			<ul class="hidden">
-				<li><a href="#">Diseño web</a></li>
-				<li><a href="#">Diseño gràfico</a></li>
-				<li><a href="#">Marketing</a></li>
+				<li><a href="#">Antecedentes</a></li>
+				<li><a href="#">Análsisi</a></li>
+				<li><a href="#">Conclusiones</a></li>
+				<li><a href="#">Recomendaciones</a></li>
 			</ul>
 		</li>
-		<li><a href="#">Noticias</a></li>
-		<li><a href="#">Contacto</a></li>
+		<li><a href="#">Referencias</a></li>
+		<li><a href="#">Anexox</a></li>
 	</ul>
 </body>
 </html>
