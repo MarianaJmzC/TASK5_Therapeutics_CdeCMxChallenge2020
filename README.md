@@ -31,7 +31,7 @@
 </html>
 
 ## RESUMEN
-<iframe src="COVID 19 health mil.png"></iframe>
+<iframe src="COVID 19 health mil.png" title="Estructura de SARS-COV-2" width="100%" height="600px" style="border:cyan"></iframe>
 
 
 Esto es un párrafo
