@@ -1,4 +1,4 @@
-# **VACUNAS: LA CIENCIA Y LA CARRERA ANTE EL SARS-COV-2**
+# **VACUNAS Y CIENCIA: UNA CARRERA ANTE EL SARS-COV-2**
 
 <!doctype html>
 <html lang="es">
