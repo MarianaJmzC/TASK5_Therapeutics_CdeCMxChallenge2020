@@ -53,6 +53,6 @@ Comparar artículos
 ¿Qué hacer ante el cOVID?
 
 ## REFERENCIAS
--[ ] <div style="text-align: justify"> Bécares, M. (2020). "Los pasos necesarios para desarrollar la vacuna del coronavirus". National Geographic Recuperado el 15 de agosto, 2020 de: https://www.nationalgeographic.com.es/ciencia/pasos-que-se-deben-seguir-para-desarrollar-vacuna-coronavirus_15360 </div>
+* Bécares, M. (2020). "Los pasos necesarios para desarrollar la vacuna del coronavirus". National Geographic Recuperado el 15 de agosto, 2020 de: https://www.nationalgeographic.com.es/ciencia/pasos-que-se-deben-seguir-para-desarrollar-vacuna-coronavirus_15360
 
 ## ANEXOS
