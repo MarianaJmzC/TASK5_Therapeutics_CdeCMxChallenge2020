@@ -1,6 +1,6 @@
 # **TASK 5 Terapéuticos - CdeCMx Challenge 2020**
 
-<!doctype html>
+
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
