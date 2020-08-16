@@ -31,7 +31,8 @@
 </html>
 
 ## RESUMEN
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.health.mil%2FNews%2FArticles%2F2020%2F03%2F13%2FDoD-issues-flexible-instructions-on-response-to-Coronavirus%3Fpage%3D6&psig=AOvVaw2LMv0EIOjWJEPFtXzDsXP6&ust=1597637713511000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD1qsHunusCFQAAAAAdAAAAABAD)
+<iframe src="COVID 19 health mil.png" title="Estructura del SARS-COV-2" width="100%" heigth="600px" sstyle="border:none;></iframe>
+
 
 Esto es un párrafo
 
