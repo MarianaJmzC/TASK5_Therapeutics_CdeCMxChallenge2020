@@ -18,29 +18,20 @@
 			<li><a href='#'>Fase 2</a>
 			<li><a href='#'>Fase 3</a>
 			<li><a href='#'>Fase 4</a>
-	            	<ul>
-	               		<li><a href='#'>Sub Menu 1.1</a></li>
-	               		<li><a href='#'>Sub Menu 1.2</a></li>
-	            	</ul>
 	         	</li>
-	         	<li><a href='#'>Sub Menu 2</a>
-		            <ul>
-		               	<li><a href='#'><span>Sub Menu 2.1</a></li>
-		              	 <li><a href='#'>Sub Menu 2.2</a></li>
-		            </ul>
+		</ul>
+		<li><a href='#'>Análisis</a>
+		<li><a href='#'>Conclusiones</a>
+		<li><a href='#'>Recomendaciones</a>
+	      	<ul>
+	         	<li><a href='#'>¿Cómo apoyar la investigación científica?</a>
+			<li><a href='#'>¿Qué hacer ante el COVID-19?</a>
 	         	</li>
 	      	</ul>
 		<ul>
-	   	</li>
-	   	<li><a href='#'>Análisis</a></li>
-	   	<li><a href='#'>Conclusiones</a></li>
-		<li><a href='#'>Recomendaciones</a></li>
-		<ul>
-			<li><a href='#'>Apoyo a la investigación científica</a>
-			<li><a href='#'>¿Qué hacer ante el COVID-19?</a>
-	            	<ul>
-		<li><a href='#'>Referencias</a></li>
+	   	<li><a href='#'>Referencias</a></li>
 		<li><a href='#'>Anexos</a></li>
+		</ul>
 	</ul>
 </nav>
 </body>
