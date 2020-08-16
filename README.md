@@ -28,10 +28,8 @@
 			<li><a href='#'>¿Qué hacer ante el COVID-19?</a>
 	         	</li>
 	      	</ul>
-		<ul>
 	   	<li><a href='#'>Referencias</a></li>
 		<li><a href='#'>Anexos</a></li>
-		</ul>
 	</ul>
 </nav>
 </body>
