@@ -19,17 +19,12 @@
 			<ul class="hidden">
 				<li><a href="#">Resumen</a></li>
 				<li><a href="#">Resumen</a></li>
+				<li><a href="#">Antecedentes</li>
+				<li><a href="#">Análsis</li>
+				<li><a href="#">Conclusiones</li>
 			</ul>
 		</li>
-		<li>
-			<a href="#">Introducción &nbsp;￬</a>
-			<ul class="hidden">
-				<li><a href="#">Antecedentes</a></li>
-				<li><a href="#">Análsisi</a></li>
-				<li><a href="#">Conclusiones</a></li>
-				<li><a href="#">Recomendaciones</a></li>
-			</ul>
-		</li>
+		<li><a href="#">Recomendaciones</a></li>
 		<li><a href="#">Referencias</a></li>
 		<li><a href="#">Anexox</a></li>
 	</ul>
